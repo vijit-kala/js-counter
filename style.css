@@ -1,0 +1,33 @@
+.main-content {
+  text-align: center;
+  font-size: 36px;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.app-logic {
+  font-style: italic;
+  /* font-size: 24px; */
+}
+
+button {
+  font-size: 20px;
+  background-color: white;
+  border-radius: 5%;
+}
+
+button:hover {
+  background-color: beige;
+}
+
+.decrement {
+  border-color: red;
+}
+
+.increment {
+  border-color: green;
+}
+
+.positive {
+  color: green;
+}
