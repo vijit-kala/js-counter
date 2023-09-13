@@ -30,5 +30,6 @@ incrementButton.addEventListener('click', () => {
 
 // Sets the value to zero everytime page is loaded
 window.onload = () => {
+  counterValue = 0;
   counter.innerHTML = counterValue;
 };
